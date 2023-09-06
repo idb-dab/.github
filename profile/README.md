@@ -17,6 +17,7 @@ A new repository must be created with following guidelines
   - Repo created for a production microfrontend - `dab-XXXXXX-microfrontend`
   - Repo created for a experimental purpose - `exp-XXXXXX-XXXXXXXX`
   - Repo created for a template project - `template-XXXXXX-XXXXXXXX`
+  - Repo created for a production microservice (Digital) - `digital-XXXXXX-microservice`
 
 - Access Groups: When a repository is created, respective teams access has to be assigned for others to be able to use the repos
   
