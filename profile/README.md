@@ -23,9 +23,9 @@ A new repository must be created with following guidelines
   
   To do that go to: Repository > Settings > Collaborators and Teams > Add Teams
   
-  - Owners - To be assigned with `Admin` privilages
-  - Core - To be assigned with `Maintain` privilages
-  - Developers - To be assigned with `Write` privilages
-  - Spectators - To be assigned with `Read` privilages
+  - `Owners - Admin permissions` - To be assigned with `Admin` privilages
+  - `Core - Maintainer permissions` - To be assigned with `Maintain` privilages
+  - `Developers - Write permissions` - To be assigned with `Write` privilages
+  - `Spectators - Read permissions` - To be assigned with `Read` privilages
 
 - Individual Access: To give access to any specific users, invite the user to org and add to any of the above team depending on access to be provided
