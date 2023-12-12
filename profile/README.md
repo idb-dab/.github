@@ -27,5 +27,6 @@ A new repository must be created with following guidelines
   - `Core - Maintainer permissions` - To be assigned with `Maintain` privilages
   - `Developers - Write permissions` - To be assigned with `Write` privilages
   - `Spectators - Read permissions` - To be assigned with `Read` privilages
+  - `Digital - UI` - To be assigned with required privilages for UI repositories
 
 - Individual Access: To give access to any specific users, invite the user to org and add to any of the above team depending on access to be provided
