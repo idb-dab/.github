@@ -23,12 +23,13 @@ A new repository must be created with following guidelines
   
   To do that go to: Repository > Settings > Collaborators and Teams > Add Teams
   
-  - `Owners - Admin permissions` - To be assigned with `Admin` privilages (To assign for all repositories)
-  - `Core - Maintainer permissions` - To be assigned with `Maintain` privilages (To assign for all repositories)
-  - `Developers - Write permissions` - To be assigned with `Write` privilages (To assign for all repositories)
-  - `Spectators - Read permissions` - To be assigned with `Read` privilages (To assign for all repositories)
-  - `Digital - UI` - To be assigned with required privilages for UI repositories (To assign for all UI repositories)
-  - `Digital - Admin Portal` - To be assigned with required privilages for Admin repositories (To assign for all Admin repositories)
+  - `Owners - Admin permissions` - To be assigned with `Admin` privilages (To be assigned for all repositories)
+  - `Core - Maintainer permissions` - To be assigned with `Maintain` privilages (To be assigned for all repositories)
+  - `Developers - Write permissions` - To be assigned with `Write` privilages (To be assigned for all repositories)
+  - `Spectators - Read permissions` - To be assigned with `Read` privilages (To be assigned for all repositories)
+  - `Digital - UI` - To be assigned with required privilages for UI repositories (To be assigned for all UI repositories)
+  - `Digital - Admin Portal` - To be assigned with required privilages for Admin repositories (To be assigned for all Admin repositories)
+
 (While adding repository permissions you don't need to add child teams)
 
 - Individual Access: To give access to any specific users, invite the user to org and add to any of the above team depending on access to be provided. Please note no member should be given a direct access without adding them to one of the teams in Github.
