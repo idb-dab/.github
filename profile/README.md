@@ -27,7 +27,8 @@ A new repository must be created with following guidelines
   - `Core - Maintainer permissions` - To be assigned with `Maintain` privilages (To be assigned for all repositories)
   - `Developers - Write permissions` - To be assigned with `Write` privilages (To be assigned for all repositories)
   - `Spectators - Read permissions` - To be assigned with `Read` privilages (To be assigned for all repositories)
-  - `Digital - UI` - To be assigned with required privilages for UI repositories (To be assigned for all UI repositories)
+  - `Digital - UI - ALL` - To be assigned with `Write` privilages for UI repositories (To be assigned for all UI repositories)
+  - `Digital - UI - Owners` - To be assigned with `Admin` privilages for UI repositories (To be assigned for all UI repositories)
   - `Digital - Admin Portal` - To be assigned with required privilages for Admin repositories (To be assigned for all Admin repositories)
 
 (While adding repository permissions you don't need to add child teams)
@@ -40,5 +41,5 @@ Do not add a user directly to any repository, instead add them to a respective t
 
 - While adding a user
   - Make sure you add the user to the correct team / sub-team.
-  - All AEH members should be added to AEH teams, All members with elevated permissions should be added to the parent team.
+  - All AEH members should be added to AEH teams or general team groups, All members with elevated permissions should be added to the owners team (which could be a child team with limited members).
   - When adding a user, please notify over email to Aaron, Avanish, Dhananjay, Paritosh to avoid any issues with permissions etc.
